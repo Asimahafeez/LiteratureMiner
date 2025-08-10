@@ -15,7 +15,7 @@ Requirements
 Python 3.7 or higher
 
 Required Python libraries: streamlit, requests
-
+link to deployed version: https://literatureminer-2.streamlit.app/
 Installation and Deployment
 
 Clone or download this repository
