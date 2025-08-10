@@ -1,0 +1,47 @@
+Fast and Lightweight Bioinformatics PubMed Miner
+
+A simple Streamlit web app that fetches the latest research articles from PubMed based on your input keywords. Useful for bioinformatics and computational biology students who want quick access to relevant research literature.
+
+Features
+
+Real-time search of articles from PubMed
+
+Displays article title, authors, publication date, and abstract
+
+Lightweight and easy to run (no heavy AI models)
+
+Requirements
+
+Python 3.7 or higher
+
+Required Python libraries: streamlit, requests
+
+Installation and Deployment
+
+Clone or download this repository
+git clone https://github.com/Asimahafeez/LiteratureMiner/new/main
+cd LiteratureMiner
+
+Install required packages
+pip install -r requirements.txt
+
+Run the app
+streamlit run app.py
+
+The app will open automatically in your browser or provide a URL to open manually.
+
+Usage
+
+Enter your research keyword or topic in the input box (for example, bioinformatics)
+
+Select the number of articles to fetch
+
+Click the Fetch Articles button
+
+View summaries and details of the fetched articles
+
+Notes
+
+Internet connection is required as the app fetches live data from PubMed API
+
+The app is optimized for basic search and lightweight use
